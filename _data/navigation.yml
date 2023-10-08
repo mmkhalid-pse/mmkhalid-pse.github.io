@@ -1,22 +1,29 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
+    #url: /files/resume_mmk.pdf
+
+  - title: "Talks"
+    url: /talks/ 
+  
+  - title: "Events"
+    #url: /events/ 
+    url: https://linkedin.com/in/mmkhalid
+
+ # - title: "Publications"
+ #   url: /publications/
+ #   url: https://scholar.google.com/
+   
+ # - title: "Teaching"
+ #   url: /teaching/    
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Portfolio"
+ #   url: /portfolio/
+        
+ # - title: "Blog Posts"
+ #   url: /year-archive/
+
+ # - title: "Guide"
+ #   url: /markdown/
