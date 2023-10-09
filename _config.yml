@@ -80,17 +80,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meraj"
+  name             : "M. Meraj Khalid"
   avatar           : "profile.png"
   bio              : "Process Systems Engineering"
-  location         : "Magdeburg, Germany"
-  employer         : "Otto von Guericke University Magdeburg"
-  employer         : "Max Planck Institute for Dynamics of Complex Technical Systems"
-  pubmed           : 
-  googlescholar    : 
+  location         : "Magdeburg, Germany" 
   email            : "khalid@mpi-magdeburg.mpg.de"
-  email            : "md.khalid@st.ovgu.de"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  linkedin         : "mmkhalid"
+  twitter          : "mmkhalid_"
+  github           : "mmkhalid-pse"
+
+  googlescholar    :
+  employer         : 
+  pubmed           : 
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -98,20 +100,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mmkhalid-pse"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "mmkhalid"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "mmkhalid_"
   vine             :
   weibo            :
   xing             :

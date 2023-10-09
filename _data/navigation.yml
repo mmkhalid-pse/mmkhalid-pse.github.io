@@ -9,8 +9,7 @@ main:
     url: /talks/ 
   
   - title: "Events"
-    #url: /events/ 
-    url: https://linkedin.com/in/mmkhalid
+    url: /events/ 
 
  # - title: "Publications"
  #   url: /publications/
